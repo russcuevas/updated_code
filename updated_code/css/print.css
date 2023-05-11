@@ -1,0 +1,8 @@
+/* HIDE THE PRINT AND BACK BUTTON */
+.print-btn {
+    display: none;
+}
+
+.back-btn{
+    display: none;
+}
